@@ -1,0 +1,29 @@
+body{
+    background-color: whitesmoke;
+    background-image: url(wayang.jpg) ;
+    background-repeat: repeat-x;
+    
+}
+.wrap{
+    width: 40%;
+    margin: auto;
+    color:black;
+    border-radius: 10px;
+    font-family: comic sans-serif;
+    
+}
+.container{
+    padding: 5px;
+}
+table{
+    margin: auto;    
+}
+table td{
+    padding: 5px;
+}
+button{
+    width: 50px;
+    font-family: comic sans-serif;
+    height: 30px;
+    background-color: khaki;
+    
